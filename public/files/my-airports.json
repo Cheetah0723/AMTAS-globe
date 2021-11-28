@@ -1,0 +1,69 @@
+{
+    "type": "AirportsCollection",
+    "airports": [
+        {
+            "text": "LAX",
+            "size": 1.0,
+            "country": "US",
+            "city": "Los Angeles",
+            "lat": "34.052235",
+            "lng": "-118.243683"
+        },
+        {
+            "text": "DAL",
+            "size": 1.0,
+            "country": "US",
+            "city": "Dallas",
+            "lat": "32.779167",
+            "lng": "-96.808891"
+        },
+        {
+            "text": "EWR",
+            "size": 1.0,
+            "country": "US",
+            "city": "New York",
+            "lat": "40.735657",
+            "lng": "-74.172363"
+        },
+        {
+            "text": "PTY",
+            "size": 1.0,
+            "country": "Panama",
+            "city": "Panama City",
+            "lat": "8.98333",
+            "lng": "-79.516670"
+        },
+        {
+            "text": "SJO",
+            "size": 0.75,
+            "country": "Costa Rica",
+            "city": "San Jose",
+            "lat": "9.989496042",
+            "lng": "-84.205165846"
+        },
+        {
+            "text": "CGH",
+            "size": 1.0,
+            "country": "Brazil",
+            "city": "Sao Paulo",
+            "lat": "-23.6261",
+            "lng": "-46.6564"
+        },
+        {
+            "text": "BOG",
+            "size": 1.0,
+            "country": "Colombia",
+            "city": "Bogota",
+            "lat": "4.70138888889",
+            "lng": "-74.1469444444"
+        },
+        {
+            "text": "VVI",
+            "size": 1.0,
+            "country": "Bolivia",
+            "city": "Santa Cruz",
+            "lat": "-17.6431",
+            "lng": "-63.1407"
+        }
+    ]
+}
