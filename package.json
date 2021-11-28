@@ -18,6 +18,7 @@
   "author": "Zhanarbek Osmonaliev",
   "license": "ISC",
   "dependencies": {
+    "firebase": "^9.5.0",
     "three": "^0.128.0",
     "three-globe": "^2.18.8",
     "three-glow-mesh": "^0.1.2"

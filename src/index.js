@@ -144,8 +144,8 @@ function initGlobe() {
       } else return "rgba(255,255,255, 0.7)";
     });
 
-  Globe.rotateY(-Math.PI * (5 / 9));
-  Globe.rotateZ(-Math.PI / 6);
+  Globe.rotateY(1.35);
+  Globe.rotateZ(Math.PI / 14);
   const globeMaterial = Globe.globeMaterial();
   globeMaterial.color = new Color(0x3a228a);
   globeMaterial.emissive = new Color(0x220038);
